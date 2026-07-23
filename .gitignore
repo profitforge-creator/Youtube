@@ -1,3 +1,5 @@
 venv/
 __pycache__/
 *.pyc
+*TEMP_MPY*
+video/jayden_final.mp4
